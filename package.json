@@ -1,0 +1,25 @@
+{
+  "name": "p6_tristan_tienmitiee",
+  "version": "1.0.0",
+  "description": "test eslint",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TristanTMT/tristan_tienmitiee_6_30_10_2021.git"
+  },
+  "author": "Tristan TMT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TristanTMT/tristan_tienmitiee_6_30_10_2021/issues"
+  },
+  "homepage": "https://github.com/TristanTMT/tristan_tienmitiee_6_30_10_2021#readme"
+}
